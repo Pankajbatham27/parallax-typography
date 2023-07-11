@@ -1,0 +1,21 @@
+.imgFluid {
+    max-width: 100%;
+}
+.frontImage {
+    position: absolute;
+    top: 0px;
+    z-index: 2;
+}
+.typoGraphy{
+    font-family: 'Belanosima', sans-serif;
+    position: fixed;
+    top: 30%;
+    z-index: 1;
+    left: 30%;
+    transform: translate(-20%, -52%);
+    font-size: 112px;
+    color: #fff1bb;
+}
+.imageCover{
+    position: relative;
+}
